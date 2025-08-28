@@ -1,0 +1,93 @@
+.cabecalho{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+
+.cabecalho img{
+  width: 150px;
+  height: 150px;
+  cursor: pointer;
+}
+
+.cabecalho button{
+  background: #7760CB;
+  color: #FFFFFF;
+  cursor: pointer;
+  border: none;
+  padding: 15px 25px 15px 25px;
+  border-radius: 50px;
+  gap: 20px;
+  
+}
+
+
+.meio{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 35px;
+}
+
+.meio .cima{
+  display: flex;
+  flex-direction: row;
+
+
+}
+
+
+.cima div{
+  width: 250px;
+  height: 300px;
+  border-radius: 15px;
+  background: #95CEC4;
+  margin: 10px;
+  cursor: pointer;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.meio .baixo{
+  display: flex;
+  flex-direction: row;
+}
+
+
+.baixo div{
+  width: 250px;
+  height: 300px;
+  border-radius: 15px;
+  background: #95CEC4;
+  margin: 10px;
+  cursor: pointer;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.rodape{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 50px;
+}
+
+.rodape button{
+  background: #33363AB5;
+  color: #FFFFFF;
+  padding: 10px 30px 10px 30px;
+  border-radius: 50px;
+  gap: 20px;
+  cursor: pointer;
+  border: none;
+}

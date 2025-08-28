@@ -1,0 +1,14 @@
+C:\Users\alexx\Documents\frei\DevMonk\espiral02\csharp\bin\Debug\net8.0\csharp.exe
+C:\Users\alexx\Documents\frei\DevMonk\espiral02\csharp\bin\Debug\net8.0\csharp.deps.json
+C:\Users\alexx\Documents\frei\DevMonk\espiral02\csharp\bin\Debug\net8.0\csharp.runtimeconfig.json
+C:\Users\alexx\Documents\frei\DevMonk\espiral02\csharp\bin\Debug\net8.0\csharp.dll
+C:\Users\alexx\Documents\frei\DevMonk\espiral02\csharp\bin\Debug\net8.0\csharp.pdb
+C:\Users\alexx\Documents\frei\DevMonk\espiral02\csharp\obj\Debug\net8.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexx\Documents\frei\DevMonk\espiral02\csharp\obj\Debug\net8.0\csharp.AssemblyInfoInputs.cache
+C:\Users\alexx\Documents\frei\DevMonk\espiral02\csharp\obj\Debug\net8.0\csharp.AssemblyInfo.cs
+C:\Users\alexx\Documents\frei\DevMonk\espiral02\csharp\obj\Debug\net8.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\alexx\Documents\frei\DevMonk\espiral02\csharp\obj\Debug\net8.0\csharp.dll
+C:\Users\alexx\Documents\frei\DevMonk\espiral02\csharp\obj\Debug\net8.0\refint\csharp.dll
+C:\Users\alexx\Documents\frei\DevMonk\espiral02\csharp\obj\Debug\net8.0\csharp.pdb
+C:\Users\alexx\Documents\frei\DevMonk\espiral02\csharp\obj\Debug\net8.0\csharp.genruntimeconfig.cache
+C:\Users\alexx\Documents\frei\DevMonk\espiral02\csharp\obj\Debug\net8.0\ref\csharp.dll

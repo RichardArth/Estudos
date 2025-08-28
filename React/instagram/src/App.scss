@@ -1,0 +1,186 @@
+.pagina-insta {
+    background-color: #252525;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:#Fff;
+
+    h4 {
+        font-family:Arial, Helvetica, sans-serif
+    }
+}
+
+.cabecalho {
+    height: 10vh;
+    width: 100%;
+    padding: 10px;
+    box-shadow: 2px 2px 3px #000;
+}
+
+.colocar-dados {
+    display: flex;
+    width: 40vw;
+    height: 85vh;
+    margin-bottom: 50px;
+    flex-direction: column;
+    padding: 40px;
+    margin-top: 50px;
+    background-image: linear-gradient(to bottom, #353535, #3C3C3C00);
+    gap:10px;
+}
+
+.cima {
+    display: flex;
+    flex-direction: row;
+    width: 30vw;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.usuario {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap:5px;
+}
+
+.usuario input {
+    padding: 5px;
+    border-radius: 6px;
+    width: 18vw;
+    border: none;
+    box-shadow: none;
+}
+
+.tempo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap:5px;
+    margin-left: 10px;
+}
+
+.tempo input {
+    padding: 5px;
+    border-radius: 6px;
+    width: 5vw;
+    border: none;
+    box-shadow: none;
+}
+
+.baixo {
+    display: flex;
+    flex-direction: row;
+    width: 40vw;
+}
+
+.avatar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap:5px;
+    text-align: center;
+    margin-left: 12px;
+}
+
+.avatar input {
+    padding: 5px;
+    border-radius: 5px;
+    width: 27.6vw;
+    border: none;
+    box-shadow: none;
+}
+
+.descricao {
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+    
+}
+
+.descricao input {
+    width: 26.6vw;
+    border-radius: 5px;
+    height: 13vh;
+    border: none;
+    box-shadow: none;
+    margin-left: 5px;
+}
+
+.imagem {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.imagem input {
+    width: 17vw;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    border: none;
+    box-shadow: none;
+}
+
+.curtidas {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.curtidas input {
+    width: 7.3vw;
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+    box-shadow: none;
+    margin: 5px;
+}
+
+button {
+    background-color: #C60844;
+    width: 20vw;
+    padding: 7px;
+    border: none;
+    box-shadow: none;
+    color:#fff;
+    font-weight: 600;
+    border-radius: 3px;
+}
+
+.icones {
+    gap:10px;
+}
+
+.cabecalho-post {
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+}
+
+.tempo-post {
+    color:#AAAAAA;
+}
+
+.usuario-post img {
+    margin-left: 2px;
+}
+
+.icones img {
+    margin: 4px;
+    width: 25px;
+}
+
+.imagem-avatar {
+    margin-top: 30px;
+}
+
+.descricao {
+    gap:10px;
+}
+
+.imagem-post {
+    height: 30vh;
+    width: 30vw;
+}
